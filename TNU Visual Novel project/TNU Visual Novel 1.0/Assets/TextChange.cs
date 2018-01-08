@@ -17,7 +17,11 @@ public class TextChange : MonoBehaviour {
 
     public void TextColour()
     {
-       SaveAndLoad.saveAndLoad.colourText = text.color = Color.cyan;
+        // SaveAndLoad.saveAndLoad.colourText = text.color = Color.cyan;
+        // text.text = "Game Saved";
+        SaveAndLoad.saveAndLoad.textCount += 1;
+        print(SaveAndLoad.saveAndLoad.textCount);
+        text.text = "this " + SaveAndLoad.saveAndLoad.textCount;
     }
         
 }

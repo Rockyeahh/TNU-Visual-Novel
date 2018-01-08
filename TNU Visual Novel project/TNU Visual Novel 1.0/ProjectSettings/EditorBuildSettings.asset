@@ -6,17 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
+    path: Assets/Scenes/01a Main Menu.unity
     guid: 43d2f6f8bd1cbfe499e1a5cee1e1c9ec
   - enabled: 1
-    path: Assets/Scenes/Save Slot Menu.unity
+    path: Assets/Scenes/02a Save Slot Menu.unity
     guid: ead033c65eec3814db100743a82790c4
   - enabled: 1
-    path: Assets/Scenes/Load Slot Menu 1.unity
+    path: Assets/Scenes/02b Load Slot Menu.unity
     guid: eea3b98a49bc20d4f8fb235b9f103503
   - enabled: 1
-    path: Assets/Scenes/Level 01.unity
+    path: Assets/Scenes/03a Level_01.unity
     guid: b4d743a9c95a9264ba57c5c6c5508bfd
   - enabled: 1
-    path: Assets/Scenes/Level 02.unity
+    path: Assets/Scenes/03b Level_02.unity
     guid: 8fd09c8532e893d4b869f6dc0093b130
