@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual Novel Engine asset store test", "Visual Novel Engine asset store test.csproj", "{4472F693-1F15-2DC1-35F3-967060CB59EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual Novel Engine asset store test.Editor", "Visual Novel Engine asset store test.Editor.csproj", "{46010894-D43D-462B-0683-D2D33458E418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4472F693-1F15-2DC1-35F3-967060CB59EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4472F693-1F15-2DC1-35F3-967060CB59EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4472F693-1F15-2DC1-35F3-967060CB59EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4472F693-1F15-2DC1-35F3-967060CB59EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46010894-D43D-462B-0683-D2D33458E418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46010894-D43D-462B-0683-D2D33458E418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46010894-D43D-462B-0683-D2D33458E418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46010894-D43D-462B-0683-D2D33458E418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
